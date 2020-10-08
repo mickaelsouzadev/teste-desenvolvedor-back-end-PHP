@@ -1,0 +1,1 @@
+ALTER TABLE pais ADD sigla varchar(2);

@@ -1,0 +1,1 @@
+SELECT nome_estado FROM estado WHERE nome_estado = 'Paraná';
